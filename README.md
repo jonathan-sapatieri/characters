@@ -1,24 +1,12 @@
-# characters
+# CHARACTERS
 
-## Project setup
-```
-npm install
-```
+Para executar este projeto é necessário a instalação do Noje.js v14 ou superior.
+Sugiro a utilização do [NVM](https://github.com/nvm-sh/nvm) para controle de versões node instaladas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Instalação do Projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Acesso o diretório do projeto e execute: `npm instal`
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Executar projeto para desenvolvimento
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Dentro do diretório do projeto execute: `npm run serve`
